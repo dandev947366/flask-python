@@ -1,2 +1,2 @@
 # flask-python
- Flask with Python
+ Flask with Python, SQLite
